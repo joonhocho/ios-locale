@@ -1,0 +1,23 @@
+{
+  "name": "ios-locale",
+  "version": "1.0.0",
+  "description": "iOS Locales in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joonhocho/ios-locale.git"
+  },
+  "keywords": [
+    "iOS",
+    "locales"
+  ],
+  "author": "Joon Ho Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joonhocho/ios-locale/issues"
+  },
+  "homepage": "https://github.com/joonhocho/ios-locale#readme"
+}
