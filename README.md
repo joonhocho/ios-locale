@@ -1,2 +1,2 @@
-# ios-locales
+# ios-locale
 iOS Locales in JavaScript
